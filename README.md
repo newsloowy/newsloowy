@@ -36,9 +36,20 @@
 <h2 align="center">💻 Languages, Technologies & Tools</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,react" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=python,java,kotlin,mongodb,mysql" />
+  <a href="#">
+    <img &nbsp; src="https://skillicons.dev/icons?i=html" title="HTML5" />
+    <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
+    <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" />
+    <img src="https://skillicons.dev/icons?i=typescript" title="TypeScript" />
+    <img src="https://skillicons.dev/icons?i=nodejs" title="NodeJS" />
+    <img src="https://skillicons.dev/icons?i=react" title="React" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=python" title="Python" />
+    <img src="https://skillicons.dev/icons?i=java" title="Java" />
+    <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin" />
+    <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
+    <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
+  <a/>
 </div>
 
 <br/>
