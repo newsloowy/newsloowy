@@ -46,7 +46,7 @@
 <br/>
 
 <h2 align="center">⚡ GitHub Stats</h2>
-
+<br/>
 <div direction="column" align="center">
   <a href="https://github.com/newsloowy">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=newsloowy&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
