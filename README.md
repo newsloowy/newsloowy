@@ -37,7 +37,10 @@
 <br/>
 <div align="center">
   <a href="#">
-    <img &nbsp; src="https://skillicons.dev/icons?i=html" title="HTML5" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,react" title="HTML5, CSS3, JavaScript, TypeScript, NodeJS, React" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=python,java,kotlin,mongodb,mysql" title="Pythom, Java, Kotlin, MongoDB, MySQL" />
+<!--     <img src="https://skillicons.dev/icons?i=html" title="HTML5" />
     <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
     <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" />
     <img src="https://skillicons.dev/icons?i=typescript" title="TypeScript" />
@@ -48,7 +51,7 @@
     <img src="https://skillicons.dev/icons?i=java" title="Java" />
     <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin" />
     <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
-    <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
+    <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" /> -->
   <a/>
 </div>
 
