@@ -13,7 +13,7 @@
   
   🎓 I'm currently a **Software Engineering student**
   
-  📚 Currently learning about ***TypeScript, React, NextJS***
+  📚 Currently focused on studying backend with ***Java*** & ***Spring***
   
 </div>
 
@@ -32,7 +32,7 @@
 </div>
 
 <br/>
-
+<!--
 <h2 align="center">💻 Languages, Technologies & Tools</h2>
 <br/>
 <div align="center">
