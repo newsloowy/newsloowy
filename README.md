@@ -32,7 +32,7 @@
 </div>
 
 <br/>
-<!--
+
 <h2 align="center">💻 Languages, Technologies & Tools</h2>
 <br/>
 <div align="center">
